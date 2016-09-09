@@ -1,6 +1,6 @@
 {
-  "name": "pdf2json",
-  "version": "1.1.6",
+  "name": "pdf2json-sh-fork",
+  "version": "1.2.0",
   "description": "A PDF file parser that converts PDF binaries to text based JSON, powered by porting a fork of PDF.JS to Node.js",
   "keywords": [
     "pdf",
@@ -20,10 +20,10 @@
     "email": "modestyz@hotmail.com",
     "url": "http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=62372"
   },
-  "homepage": "https://github.com/modesty/pdf2json",
+  "homepage": "https://github.com/swifthero/pdf2json",
   "repository": {
     "type": "git",
-    "url": "git://github.com/modesty/pdf2json.git"
+    "url": "git://github.com/swifthero/pdf2json.git"
   },
   "main": "./pdfparser.js",
   "scripts": {
